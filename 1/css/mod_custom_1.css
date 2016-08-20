@@ -1,0 +1,262 @@
+.box_style_1 {
+
+    padding: 25px;
+    box-shadow: inset 0 0 0 1px #e0e5e9;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 0;
+    border: 5px solid #fbfbfc;
+    margin-bottom: 30px;
+    font-size: 13px;
+    line-height: 20px;
+    background-color: #fff;
+}
+.box_style_1 > h4:first-child {
+    margin-top: 0;
+}
+.box_style_1 h4 {
+    border-bottom: 1px solid #eaeff3;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+}
+.h4 {
+    font-family: 'Raleway', Arial, Helvetica, sans-serif;
+}
+.icon-star{
+    font-family: "fontello";
+    font-style: normal;
+    font-weight: normal;
+    speak: none;
+    display: inline-block;
+    text-decoration: inherit;
+    width: 1em;
+    margin-right: .2em;
+    text-align: center;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1em;
+    margin-left: .2em;
+}
+.chapter_course {
+    background: #f8f8f8;
+    padding: 10px;
+    font-size: 18px;
+    line-height: 20px;
+    margin-top: 0;
+    margin-bottom: 0;
+    border: 1px solid #e0e5e9;
+    border-bottom: 2px solid #e0e5e9;
+    font-weight: 600;
+}
+.strip_single_course h4 {
+    background: url(../images/bullet_start.png) no-repeat 15px top;
+}
+.strip_single_course h4 {
+    line-height: 18px;
+    font-size: 16px;
+    padding: 5px 10px 10px 50px;
+    margin: 0;
+}
+.h3{
+    font-family: 'Raleway', Arial, Helvetica, sans-serif;
+}
+.strip_single_course {
+    border-bottom: 1px solid #e0e5e9;
+    border-left: 1px solid #e0e5e9;
+    border-right: 1px solid #e0e5e9;
+    padding-top: 10px;
+    background: url(../images/line_bg_course.png) 29px top no-repeat;
+}
+body {
+    font-family: 'Raleway', Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    margin: 0;
+    background-color: #fff;
+    color: #2d4050;
+    -webkit-font-smoothing: subpixel-antialiased;
+}
+.module-lessons .strip_single_course ul {
+    padding-left: 45px!important;
+    margin-bottom: 10px!important;
+}
+.module-lessons ul {
+    margin-left:  50px !important;
+    padding: 0 !important;
+    list-style: none !important;
+}
+.module-lessons ul > li {
+    margin-right: 20px!important;
+}
+.module-lessons ul li {
+    list-style: none !important;
+    margin:  0 50px !important;
+    position: relative;
+}
+.strip_single_course ul li {
+    display: inline-block;
+    margin-right: 10px!important;
+}
+#comments li {
+    padding: 0px 0px 40px 20px;
+    list-style: none;
+}
+* {
+
+    box-sizing: border-box;
+}
+.comment_info {
+    font-size: 13px;
+
+}
+.comment_info {
+    padding-bottom: 7px;
+}
+#comments li {
+    list-style: none;
+    padding: 20px;
+}
+.comment_right {
+    display: table;
+}
+.commentlist .avatar {
+    border-radius: 50%;
+}
+.comment-body .avatar {
+    float: left;
+    margin-right: 15px;
+}
+
+.img {
+    max-width: 100%;
+}
+
+.course .media-body p, .post.lesson {
+    margin-bottom: 10px;
+}
+ul.legend_course li#tostart {
+    background: url(../images/bullet_start_2.png) no-repeat center left;
+    color: #5394c9;
+    padding-left: 25px;
+}
+ul.legend_course {
+    margin-left: 0;
+    padding-left: 0;
+    line-height: 30px;
+    font-size: 14px;
+}
+ul.list_1 {
+    list-style: none;
+    margin: 0 0 20px 0;
+    padding: 0;
+    font-weight: 700;
+    font-size: 14px;
+}
+ul.list_1 li a:hover {
+    background: #efefef;
+    color: #326e99;
+
+}
+ul.list_1 li a {
+
+    text-decoration: none;
+    margin: 4px 20px;
+    display: block;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #efefef;
+}
+ul.list_1 li a:after {
+    font-family: "fontello";
+    content: "\e89b";
+    float: right;
+
+}
+.course header h1 {
+    font-size: 32px;
+    font-weight: 400;
+    margin: 0 0 15px;
+    text-transform: none;
+}
+.button_fullwidth-3:hover {
+    background: #262c2d;
+    color: #fff;
+
+}
+.cart .single_add_to_cart_button {
+    border: 5px solid #fbfbfc;
+    box-shadow: inset 0 0 0 1px #e0e5e9;
+}
+.button_fullwidth-3 {
+    outline: none;
+    text-align: center;
+    padding: 15px 12px;
+    text-decoration: none;
+    -moz-transition: background .5s ease;
+    font-size: 16px;
+    display: block;
+    width: 100%;
+    cursor: pointer;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    -webkit-font-smoothing: antialiased;
+}
+.module .module-lessons ul > li {
+    margin-right: 10px!important;
+}
+.module .module-lessons ul li {
+    list-style: none !important;
+    margin: 0 !important;
+    position: relative;
+}
+.strip_single_course ul li {
+    display: inline-block;
+}
+.icon-clock:before {
+    content: '\e883';
+}
+[class^="icon-"]:before, [class*=" icon-"]:before {
+    font-family: "fontello";
+    font-style: normal;
+    font-weight: normal;
+    speak: none;
+    display: inline-block;
+    text-decoration: inherit;
+    width: 1em;
+    margin-right: .2em;
+    text-align: center;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1em;
+    margin-left: .2em;
+}
+.icon-video:before {
+    content: '\e883';
+}
+.icon-doc:before {
+    content: '\e883';
+}
+.rating {
+    color: #FC0;
+    margin-top: 10px;
+}
+.course .comment_info {
+    font-size: 13px;
+
+}
+#comments li {
+    list-style: none;
+    margin-left: 20px;
+
+}
+.fa-star:before {
+    content: "\f005";
+}
+ul.legend_course li#completed {
+    background: url(../images/bullet_complete_2.png) no-repeat center left;
+    color: #949494;
+    padding-left: 25px;
+}
+.icon-star:before {
+    content: '\e80b';
+}
