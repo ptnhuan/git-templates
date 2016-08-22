@@ -3,11 +3,11 @@
         <meta charset="utf-8">
         <title>Demo Web</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link href="bootstrap-3.3.6-dist/css/bootstrap.css" rel="stylesheet" type="text/css"/>
-        <link href="font-awesome-4.6.3/css/font-awesome.css" rel="stylesheet" type="text/css"/>
-        <link href="style.css" rel="stylesheet" type="text/css"/>
-        <script src="jquery-2.1.4.min.js" type="text/javascript"></script>
-        <script src="myjs.js" type="text/javascript"></script>
+        <link href="css/bootstrap.css" rel="stylesheet" type="text/css"/>
+        <link href="css/font-awesome.css" rel="stylesheet" type="text/css"/>
+        <link href="css/style.css" rel="stylesheet" type="text/css"/>
+        <script src="js/jquery-2.1.4.min.js" type="text/javascript"></script>
+        <script src="js/myjs.js" type="text/javascript"></script>
     </head>
     <body>
         <header>
