@@ -7,7 +7,7 @@
         <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
         <?php
         if(!class_exists('lessc')){
-            include ('../libs/lessc.inc.php');
+            include ('/libs/lessc.inc.php');
         }
         $less = new lessc;
         $less ->compileFile('less/custom-less.less', 'css/custom-css.css');
