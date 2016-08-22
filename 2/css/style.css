@@ -641,7 +641,7 @@ region-main .coursebox>.info>.coursename a {
 }
 .coursebox>.info>.coursename a {
     display: block;
-    background-image: url(images/course.png);
+    background-image: url(../images/course.png);
     background-repeat: no-repeat;
     padding-left: 21px;
 }
@@ -759,11 +759,11 @@ forumpost .row .left {
     display: block;
 }
 .collapsible-actions .collapse-all, .dir-rtl .collapsible-actions .collapse-all {
-    background-image: url(images/expanded.png);
+    background-image: url(../images/expanded.png);
 }
 .collapsible-actions .collapseexpand {
     padding-left: 20px;
-    background: url(images/collapsed.svg) 2px center no-repeat;
+    background: url(../images/collapsed.svg) 2px center no-repeat;
 }
 .collapsible-actions {
     text-align: right;
@@ -772,7 +772,7 @@ forumpost .row .left {
     margin-bottom: 15px;
     font-size: 20px;
     font-weight: 400;
-    background-image: url(images/collapsed_empty.svg);
+    background-image: url(../images/collapsed_empty.svg);
     background-repeat: no-repeat;
     padding: 2px 18px;
     margin: 3px;
@@ -853,7 +853,7 @@ a.skip-block, a.skip {
     white-space: normal;
 }
 .block_tree li.collapsed .tree_item.branch {
-    background-image: url('images/collapsed.svg');
+    background-image: url('../images/collapsed.svg');
     padding-left: 25px;
 }
 .block_tree .tree_item {
@@ -970,26 +970,26 @@ a.skip-block, a.skip {
 }
 @font-face{
     font-family: arial;
-    src:url('fonts/arial.ttf') format('truetype');
+    src:url('../fonts/arial.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face{
     font-family: sans-serif;
-    src:url('fonts/Sans Serif.ttf') format('truetype');
+    src:url('../fonts/Sans Serif.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face{
     font-family: open Sans;
-    src:url('fonts/OpenSans-Regular.ttf') format('truetype');
+    src:url('../fonts/OpenSans-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face{
     font-family: Helvetica Neue;
-    src:url('fonts/helveticaneue.ttf') format('truetype');
-    src:url('fonts/HelveticaNeue.otf') format('opentype');
+    src:url('../fonts/helveticaneue.ttf') format('truetype');
+    src:url('../fonts/HelveticaNeue.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
