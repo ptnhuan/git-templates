@@ -1,6 +1,6 @@
 $(document).ready(function () {
     var stt;
-    var kt;
+    var kt = 1;
     duyet();
     function duyet() {
         $('.tabcontent').each(function () {
